@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kgmcauliffe@gmail.com",
+    "longName": "HIIT Tracker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_icon_arrow.png",
+                "name": "IMAGE_ACTION_ICON_ARROW",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "HIIT Tracker",
+    "uuid": "5df561e7-c314-48f3-a0c6-5f08a232a8f6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
